@@ -42,13 +42,13 @@ else
 ```cpp
 if (myScore > yourScore)
 {
-    cout << "win
+    cout << "win\n"
 ";
     wager += 100;
 }
 else
 {
-    cout << "golf
+    cout << "golf\n"
 ";
     wager = 0;
 }
