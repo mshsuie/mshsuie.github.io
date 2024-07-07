@@ -10,6 +10,9 @@ toc: true
 
 C++의 흐름 제어를 바탕으로 다양한 조건문과 loop을 사용하여 프로그램을 더 유연하게 작성할 수 있습니다.
 
+BGM 추천: 기리보이의 loop
+{% include video id="2BIPu04PCgA" provider="youtube" %}
+
 
 ## 1. Precedence
 
