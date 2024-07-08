@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Suie Myeong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/스크린샷%202024-07-01%20020241.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "currently majoring in Business Administration and Computer Science."
   location         : "Yonsei University, Republic of Korea"
   email            : mshsuie@yonsei.ac.kr
