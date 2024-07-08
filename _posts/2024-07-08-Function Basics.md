@@ -5,7 +5,7 @@ categories: "객체지향프로그래밍"
 tag: [C++, OOP, CS]
 toc: true
 ---
-너무 씨쁠쁠 팡션? 사용 하지 마세요. 편리함이 있다면, 위험성은 증대하죠.
+너무 씨쁠쁠 팡션? 사용 하지 마세요.
 
 ![Don't Use Functions](https://raw.githubusercontent.com/mshsuie/mshsuie.github.io/master/assets/images/dont_use_functions.jpeg)
 
