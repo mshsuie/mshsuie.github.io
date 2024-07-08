@@ -1,0 +1,23 @@
+/* 사이드바 너비 조정 */
+.sidebar {
+    @include breakpoint($large) {
+        width: 200px !important; /* 사이드바 너비 조정 */
+    }
+
+    @include breakpoint($x-large) {
+        width: 200px !important; /* 사이드바 너비 조정 */
+    }
+}
+
+/* 본문 영역 너비 조정 */
+.content {
+    @include breakpoint($large) {
+        max-width: calc(100% - 220px) !important; /* 본문 영역 너비 조정 */
+        margin-left: 200px !important; /* 사이드바 너비와 동일하게 설정 */
+    }
+
+    @include breakpoint($x-large) {
+        max-width: calc(100% - 220px) !important; /* 본문 영역 너비 조정 */
+        margin-left: 200px !important; /* 사이드바 너비와 동일하게 설정 */
+    }
+}
