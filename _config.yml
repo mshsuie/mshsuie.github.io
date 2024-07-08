@@ -115,7 +115,9 @@ analytics:
 author:
   name             : "Suie Myeong"
   avatar           : "assets/images/profile.png"
-  bio              : "currently majoring in Business Administration and Computer Science."
+  bio              : |
+    🍀 lucky suie syndrome!
+    🖥️ currently majoring in business administration and computer science.
   location         : "Yonsei University, Republic of Korea"
   email            : mshsuie@yonsei.ac.kr
   links:
